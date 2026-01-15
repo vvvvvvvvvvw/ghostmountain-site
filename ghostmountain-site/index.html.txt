@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ghost Mountain</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Background video -->
+  <div class="background-video">
+    <video autoplay muted loop id="bg-video">
+      <source src="background-video.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <!-- Main content -->
+  <div class="content">
+    <h1>Ghost Mountain</h1>
+    <p class="subtitle">The official website for Ghost Mountain music.</p>
+    
+    <h2>Song List</h2>
+    <ul>
+      <li>Laura - ft. Wicca Phase Springs Eternal - 2025</li>
+      <li>3AM Gang - ft. Hackle - 2025</li>
+      <li>In the Gloam - ft. Ghost Mountain - 2025</li>
+      <li>Donkey-Boy - feat. Olan Monk - 2023</li>
+      <li>Stalks - 2023</li>
+      <li>Moulder - 2023</li>
+      <li>Kismet - 2023</li>
+      <li>Hovel - 2023</li>
+      <li>By the Flame - 2023</li>
+      <li>Highway Hex - feat. Sematary - 2023</li>
+      <li>The Lake - 2023</li>
+      <li>Kevlar - 2023</li>
+      <li>Familiar Stranger - feat. Buckshot - 2023</li>
+      <li>Damien - feat. Sematary - 2023</li>
+      <li>October Country - 2023</li>
+      <li>Wayside - 2023</li>
+      <li>Dark Harvest - feat. Sematary - 2023</li>
+      <li>Apollon - 2022</li>
+      <li>Your Face in the Window - 2021</li>
+      <li>Goin' Mordum - feat. Sematary - 2021</li>
+      <li>Heffalumps - feat. Sematary - 2020</li>
+      <li>Louisville Slugger - feat. Sematary - 2020</li>
+      <li>Tournquet - feat. Sematary - 2020</li>
+      <li>Deer God - feat. Sematary - 2020</li>
+      <li>Taxidermy - feat. Sematary - 2020</li>
+      <li>Sigil - feat. Sematary - 2020</li>
+      <li>Johnny Cutter - feat. Sematary - 2020</li>
+      <li>Goodbye Horses - feat. Sematary - 2020</li>
+      <li>Nazgul - feat. Sematary - 2020</li>
+      <li>Cleaver Valley - feat. Sematary - 2020</li>
+      <li>Funeral - feat. Sematary - 2020</li>
+      <li>Hogs - feat. Sematary - 2020</li>
+      <li>Chandelier - feat. Sematary - 2020</li>
+      <li>Bunny Suit - feat. Sematary - 2020</li>
+      <li>Nevada - feat. Sematary - 2020</li>
+      <li>Fury Road - feat. Sematary - 2020</li>
+      <li>New Rocks - feat. Sematary - 2020</li>
+      <li>Goat Man - feat. Sematary - 2020</li>
+      <li>Orbs - feat. Sematary - 2020</li>
+      <li>Skin Mask - feat. Sematary - 2020</li>
+      <li>Dead By Dawn - feat. Sematary - 2020</li>
+      <li>Fury Road 2 - feat. Sematary - 2020</li>
+      <li>Ready for the House - feat. Sematary - 2020</li>
+      <li>Stand Your Ground - feat. Sematary - 2020</li>
+      <li>Broken Angel Hospital - feat. Sematary - 2020</li>
+      <li>Dead By Dawn - feat. Sematary - 2019</li>
+      <li>Fury Road - feat. Sematary - 2019</li>
+      <li>Nevada - feat. Sematary - 2019</li>
+      <li>New Rocks - feat. Sematary - 2019</li>
+      <li>Interstate - feat. Sematary - 2019</li>
+      <li>Goat Man - feat. Sematary - 2019</li>
+      <li>Orbs - feat. Sematary - 2019</li>
+      <li>Skin Mask - feat. Sematary - 2019</li>
+      <li>Fury Road 2 - feat. Sematary - 2019</li>
+      <li>Ready for the House - feat. Sematary - 2019</li>
+      <li>Stand Your Ground - feat. Sematary - 2019</li>
+      <li>Broken Angel Hospital - feat. Sematary - 2019</li>
+      <li>Coil - feat. Sematary - 2019</li>
+      <li>Shotgun - feat. Sematary - 2019</li>
+      <li>Arson - feat. Sematary - 2019</li>
+      <li>Toolbox - feat. Gods Wisdom & Sematary - 2019</li>
+    </ul>
+
+    <h2>Listen to the music</h2>
+    <audio controls autoplay loop>
+      <source src="your-audio-file.mp3" type="audio/mp3">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+
+</body>
+</html>
