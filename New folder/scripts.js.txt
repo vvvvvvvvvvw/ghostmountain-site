@@ -1,0 +1,3 @@
+document.querySelector('video').addEventListener('click', function () {
+  this.paused ? this.play() : this.pause();
+});
